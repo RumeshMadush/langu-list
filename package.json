@@ -1,0 +1,46 @@
+{
+  "name": "langu-list",
+  "version": "0.0.1",
+  "description": "Map Stores ISO ISO 3166 language codes to language names and vice versa.",
+  "main": "language-list.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "~0.4.8"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RumeshMadush/langu-list.git"
+  },
+  "keywords": [
+    "language",
+    "languages",
+    "language-list",
+    "langu-list"
+  ],
+  "author": {
+    "name": "rumesh",
+    "email": "rumeshmadushanka95@gmail.com"
+  },
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/RumeshMadush/langu-list/issues"
+  },
+  "homepage": "https://github.com/RumeshMadush/langu-list/issues",
+  "_npmUser": {
+    "name": "Rumesh",
+    "email": "rumeshmadushanka95@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "rumesh",
+      "email": "rumeshmadushanka95@gmail.com"
+    }
+  ]
+
+}
