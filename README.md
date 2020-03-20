@@ -49,7 +49,7 @@ Returns an array of all language information, in the same format as it gets impo
 # install
 
 ``` cli
-npm install language-list
+npm i langu-list
 ```
 
 # license

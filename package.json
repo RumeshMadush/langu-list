@@ -1,7 +1,7 @@
 {
   "name": "langu-list",
-  "version": "0.0.1",
-  "description": "Map Stores ISO ISO 3166 language codes to language names and vice versa.",
+  "version": "0.0.3",
+  "description": "Map Stores  ISO 3166 language codes to language names and vice versa.",
   "main": "language-list.js",
   "directories": {
     "test": "test"
@@ -21,7 +21,8 @@
     "language",
     "languages",
     "language-list",
-    "langu-list"
+    "langu-list",
+    "ISO 3166 language"
   ],
   "author": {
     "name": "rumesh",
