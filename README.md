@@ -7,7 +7,7 @@ Map Stores ISO ISO 3166 language codes to language names and vice versa.
 # example 
 
 ``` js
-var languages = require('language-list')();
+var languages = require('langu-list')();
 
 console.log(languages.getLanguageName('sk_SK')); // Sinhala
 console.log(languages.getLanguageCode('Sinhala')); // sk_SK
