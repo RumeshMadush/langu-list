@@ -503,5 +503,25 @@
         "language": "West Frisian",
         "native": "Frysk",
         "code": "fy_NL"
+    },
+    {
+        "language": "English - INDIA",
+        "native": "English (India)",
+        "code": "en_IN"
+    },
+    {
+        "language": "English - Pirate",
+        "native": "English (Pirate)",
+        "code": "en_PI"
+    },
+    {
+        "language": "Maori - NEW ZEALAND",
+        "native": "Maori",
+        "code": "mi_NZ"
+    },
+    {
+        "language": "Lao",
+        "native": "Lao locale for Laos",
+        "code": "lo_LA"
     }
   ]
